@@ -1,5 +1,5 @@
 git add -A
-git commit -m 'bump version'
+git commit -m 'patch'
 git push
 npm version patch
 npm publish
