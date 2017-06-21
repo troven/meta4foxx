@@ -1,6 +1,6 @@
 {
   "name": "meta4foxx",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "A micro-framework for Foxx-based web-apps",
   "main": "lib/index.js",
   "scripts": {
