@@ -1,7 +1,7 @@
 {
   "name": "meta4foxx",
   "version": "0.3.14",
-  "description": "A micro-framework for Foxx-based web-apps",
+  "description": "A micro-framework for creating foxx microservices for ArangoDB",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
