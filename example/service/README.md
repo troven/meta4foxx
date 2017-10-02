@@ -1,20 +1,31 @@
 Example Module
 ==============
 
+The Example Module comprises of a single "projects" API.
+
+Important Files
+---------------
+
+    ./index.js              - configures each of the APIs
+    ./scripts/setup.js      - setup the database for each API
+    ./scripts/teardown.js   - destroy the database for each API (use with caution)
+    ./apis/*                - configuration for individual APIs
+
 
 install:
 
-    npm install && bower install
-    foxx-manager replace . /example --server.password $FOXX_PASSWD --server.database $FOXX_DB --server.endpoint $FOXX_HOST --server.username $FOXX_USER
+    npm install
+    foxx-manager install . /example --server.password $FOXX_PASSWD
 
 upgrade:
 
-    foxx-manager install . /example --server.password $FOXX_PASSWD --server.database $FOXX_DB --server.endpoint $FOXX_HOST --server.username $FOXX_USER
+    foxx-manager replace . /example --server.password $FOXX_PASSWD
 
+un-install:
 
+    foxx-manager uninstall /example --server.password $FOXX_PASSWD
 
-# License
+--------------------------------
 
 Copyright (c) 2017 apigeeks.com
 
-License: Proprietary
