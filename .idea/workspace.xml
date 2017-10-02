@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/strategy/CRUD.js" afterPath="$PROJECT_DIR$/lib/strategy/CRUD.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/service/apis/projects.js" afterPath="$PROJECT_DIR$/example/service/apis/projects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/service/scripts/setup.js" afterPath="$PROJECT_DIR$/example/service/scripts/setup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/service/scripts/teardown.js" afterPath="$PROJECT_DIR$/example/service/scripts/teardown.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/service/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -72,8 +71,8 @@
       <file leaf-file-name="setup.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/service/scripts/setup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,18 +81,18 @@
       <file leaf-file-name="teardown.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/service/scripts/teardown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projects.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/service/apis/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -174,12 +173,12 @@
         <option value="$PROJECT_DIR$/example/service/manifest.json" />
         <option value="$PROJECT_DIR$/example/service/README.md" />
         <option value="$PROJECT_DIR$/example/service/package.json" />
-        <option value="$PROJECT_DIR$/example/service/scripts/setup.js" />
         <option value="$PROJECT_DIR$/example/service/schema/project.json" />
-        <option value="$PROJECT_DIR$/example/service/apis/projects.js" />
-        <option value="$PROJECT_DIR$/example/service/scripts/teardown.js" />
         <option value="$PROJECT_DIR$/example/service/ux/index.html" />
         <option value="$PROJECT_DIR$/example/service/index.js" />
+        <option value="$PROJECT_DIR$/example/service/scripts/setup.js" />
+        <option value="$PROJECT_DIR$/example/service/scripts/teardown.js" />
+        <option value="$PROJECT_DIR$/example/service/apis/projects.js" />
       </list>
     </option>
   </component>
@@ -254,7 +253,34 @@
             <path>
               <item name="meta4foxx" type="b2602c69:ProjectViewProjectNode" />
               <item name="meta4foxx" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meta4foxx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meta4foxx" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meta4foxx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meta4foxx" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meta4foxx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meta4foxx" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meta4foxx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meta4foxx" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,12 +327,12 @@
       <workItem from="1503490525150" duration="556000" />
       <workItem from="1503922241500" duration="2777000" />
       <workItem from="1506175786481" duration="446000" />
-      <workItem from="1506943176840" duration="5200000" />
+      <workItem from="1506943176840" duration="5551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22217000" />
+    <option name="totallyTimeSpent" value="22568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="921" extended-state="0" />
@@ -687,38 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/service/schema/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/service/apis/projects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/service/scripts/setup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/service/scripts/teardown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/service/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -731,6 +725,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/service/scripts/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/service/scripts/teardown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/service/schema/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/service/apis/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
