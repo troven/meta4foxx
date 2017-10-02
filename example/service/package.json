@@ -1,0 +1,18 @@
+{
+  "name": "meta4foxx_example",
+  "version": "0.0.5",
+  "description": "[meta4foxx] Example Module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "meta4foxx": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cto@apigeeks.com",
+  "license": "ISC"
+}

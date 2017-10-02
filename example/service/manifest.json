@@ -1,0 +1,25 @@
+{
+  "name": "meta4foxx_example",
+  "version": "0.0.5",
+  "description": "[meta4foxx] Example Module",
+  "author": "cto@apigeeks.com",
+  "thumbnail": "apigeeks.png",
+  "license": "Proprietary",
+  "keywords": [ "meta4", "foxx", "apigeeks", "factory", "microservice" ],
+  "contributors": [
+    "ApiGeeks <cto@apigeeks.com>"
+  ],
+  "defaultDocument": "ux/index.html",
+  "thumbnail": "apigeeks.png",
+  "engines": {
+    "arangodb": "^3.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "setup": "scripts/setup.js",
+    "teardown": "scripts/teardown.js"
+  },
+  "files": {
+  },
+  "tests": "test/**/*.js"
+}
