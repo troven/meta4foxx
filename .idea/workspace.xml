@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="" />
+    <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/strategy/Self.js" afterPath="$PROJECT_DIR$/lib/strategy/Self.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="Self.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/strategy/Self.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-524">
-              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+            <state relative-caret-position="-1266">
+              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -141,6 +143,7 @@
       <find>THIN_JWT_KEY</find>
       <find>filterProfileByIdentity</find>
       <find>Profile</find>
+      <find>ux</find>
     </findStrings>
     <replaceStrings>
       <replace>report_name</replace>
@@ -149,6 +152,7 @@
       <replace>example</replace>
       <replace>JWT_SECRET</replace>
       <replace>THIN_JWT_KEY</replace>
+      <replace>userStateByIdentity</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/lib/strategy</dir>
@@ -345,12 +349,12 @@
       <workItem from="1503490525150" duration="556000" />
       <workItem from="1503922241500" duration="2777000" />
       <workItem from="1506175786481" duration="446000" />
-      <workItem from="1506943176840" duration="16100000" />
+      <workItem from="1506943176840" duration="16239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33117000" />
+    <option name="totallyTimeSpent" value="33256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="921" extended-state="0" />
@@ -782,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/strategy/Self.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
-          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        <state relative-caret-position="-1266">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="41" />
           <folding />
         </state>
       </provider>
