@@ -11,7 +11,6 @@ Important Files
     ./scripts/teardown.js   - destroy the database for each API (use with caution)
     ./apis/*                - configuration for individual APIs
 
-
 install:
 
     npm install
