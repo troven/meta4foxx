@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/strategy/CRUD.js" afterPath="$PROJECT_DIR$/lib/strategy/CRUD.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/strategy/Self.js" afterPath="$PROJECT_DIR$/lib/strategy/Self.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/index.js" afterPath="$PROJECT_DIR$/lib/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,7 +21,7 @@
       <file leaf-file-name="CRUD.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/strategy/CRUD.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="1200">
               <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
               <folding />
             </state>
@@ -34,6 +33,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,16 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/strategy/Custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -195,10 +194,10 @@
         <option value="$PROJECT_DIR$/example/service/README.md" />
         <option value="$PROJECT_DIR$/lib/strategy/Workflow.js" />
         <option value="$PROJECT_DIR$/lib/strategy/Custom.js" />
-        <option value="$PROJECT_DIR$/lib/index.js" />
         <option value="$PROJECT_DIR$/lib/RBAC.js" />
         <option value="$PROJECT_DIR$/lib/strategy/Self.js" />
         <option value="$PROJECT_DIR$/lib/strategy/CRUD.js" />
+        <option value="$PROJECT_DIR$/lib/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -220,6 +219,9 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/example/service/package.json" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="140" />
@@ -356,12 +358,13 @@
       <workItem from="1503922241500" duration="2777000" />
       <workItem from="1506175786481" duration="446000" />
       <workItem from="1506943176840" duration="18827000" />
-      <workItem from="1507629060328" duration="625000" />
+      <workItem from="1507629060328" duration="954000" />
+      <workItem from="1508124277210" duration="732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36469000" />
+    <option name="totallyTimeSpent" value="37530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="921" extended-state="0" />
@@ -661,14 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/strategy/Custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -735,8 +730,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/strategy/CRUD.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="1200">
           <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
           <folding />
         </state>
       </provider>
