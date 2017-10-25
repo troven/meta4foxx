@@ -1,6 +1,6 @@
 {
   "name": "meta4foxx",
-  "version": "0.3.21",
+  "version": "0.3.22",
   "description": "A micro-framework for creating foxx microservices for ArangoDB",
   "main": "lib/index.js",
   "scripts": {

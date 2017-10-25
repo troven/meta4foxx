@@ -1,7 +1,7 @@
 meta4foxx
 ---------
 
-A micro-framework for rapidly building ArangoDB Foxx services.
+A framework for building stateful micro-services using ArangoDB Foxx.
 
 
 --------------------------------
