@@ -1,4 +1,5 @@
-git add -A
+touch README
+git add -A .
 git commit -m 'patch'
 git push
 npm version patch
