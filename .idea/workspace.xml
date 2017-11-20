@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mixins/NestedModels.js" afterPath="$PROJECT_DIR$/lib/mixins/NestedModels.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mixins/index.js" afterPath="$PROJECT_DIR$/lib/mixins/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/util/models.js" afterPath="$PROJECT_DIR$/lib/util/models.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mixins/ResolveModels.js" afterPath="$PROJECT_DIR$/lib/mixins/ResolveModels.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/util/models.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="596">
-              <caret line="93" column="62" lean-forward="true" selection-start-line="93" selection-start-column="62" selection-end-line="93" selection-end-column="62" />
+              <caret line="93" column="62" lean-forward="false" selection-start-line="93" selection-start-column="62" selection-end-line="93" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -69,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResolveModels.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ResolveModels.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/mixins/ResolveModels.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -206,8 +204,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/mixins/NestedModels.js" />
         <option value="$PROJECT_DIR$/lib/mixins/index.js" />
-        <option value="$PROJECT_DIR$/lib/mixins/ResolveModels.js" />
         <option value="$PROJECT_DIR$/lib/util/models.js" />
+        <option value="$PROJECT_DIR$/lib/mixins/ResolveModels.js" />
       </list>
     </option>
   </component>
@@ -337,12 +335,12 @@
       <workItem from="1506943176840" duration="18827000" />
       <workItem from="1507629060328" duration="954000" />
       <workItem from="1508124277210" duration="6493000" />
-      <workItem from="1510880532697" duration="3306000" />
+      <workItem from="1510880532697" duration="3492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46597000" />
+    <option name="totallyTimeSpent" value="46783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="921" extended-state="0" />
@@ -696,14 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mixins/ResolveModels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/strategy/CRUD.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -715,7 +705,15 @@
     <entry file="file://$PROJECT_DIR$/lib/util/models.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
-          <caret line="93" column="62" lean-forward="true" selection-start-line="93" selection-start-column="62" selection-end-line="93" selection-end-column="62" />
+          <caret line="93" column="62" lean-forward="false" selection-start-line="93" selection-start-column="62" selection-end-line="93" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mixins/ResolveModels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
