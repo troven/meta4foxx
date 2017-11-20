@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0fc1fe-2d8e-4524-9ff2-8068a2546f67" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/strategy/CRUD.js" afterPath="$PROJECT_DIR$/lib/strategy/CRUD.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="CRUD.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/strategy/CRUD.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+            <state relative-caret-position="423">
+              <caret line="186" column="72" lean-forward="false" selection-start-line="186" selection-start-column="72" selection-end-line="186" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -42,10 +43,10 @@
             <state relative-caret-position="30">
               <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding>
-                <marker date="1511187782000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
-                <marker date="1511187782000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
-                <marker date="1511187782000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-                <marker date="1511187782000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
+                <marker date="1511187936000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
+                <marker date="1511187936000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+                <marker date="1511187936000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+                <marker date="1511187936000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -344,12 +345,12 @@
       <workItem from="1506943176840" duration="18827000" />
       <workItem from="1507629060328" duration="954000" />
       <workItem from="1508124277210" duration="6493000" />
-      <workItem from="1510880532697" duration="4241000" />
+      <workItem from="1510880532697" duration="4545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47532000" />
+    <option name="totallyTimeSpent" value="47836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="921" extended-state="0" />
@@ -407,10 +408,10 @@
         <state relative-caret-position="30">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
-            <marker date="1511187782000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -681,10 +682,10 @@
         <state relative-caret-position="30">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
-            <marker date="1511187782000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1511187782000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="0:609" ph="{&quot;name&quot;: &quot;meta4foxx&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="170:233" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="251:324" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1511187936000" expanded="true" signature="396:607" ph="{&quot;assert&quot;: &quot;^1.4.1&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -731,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/strategy/CRUD.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        <state relative-caret-position="423">
+          <caret line="186" column="72" lean-forward="false" selection-start-line="186" selection-start-column="72" selection-end-line="186" selection-end-column="72" />
           <folding />
         </state>
       </provider>
